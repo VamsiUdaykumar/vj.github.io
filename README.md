@@ -1,7 +1,3 @@
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shikharg)
-<div style="text-align:center">
-  <img alt="Logo" src="https://github.com/Shikhar97/Shikhar97.github.io/blob/main/src/images/logo.ico" width="100" />
-</div>
 <h1 style="text-align:center">
   Portfolio Website
 </h1>
@@ -9,12 +5,6 @@
   Built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
-
-<div style="text-align:center">
-
-  <img alt="Demo" src="https://github.com/Shikhar97/Shikhar97.github.io/blob/main/src/images/demo.png" />
-
-</div>
 
 
 You can fork this repo. Thanks to [brittanychiang.com](https://brittanychiang.com). Awesome work!
